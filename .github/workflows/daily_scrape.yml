@@ -37,3 +37,16 @@ jobs:
         git add .
         git commit -m "docs: Automated daily internship report update" || echo "No changes to commit"
         git push
+
+    - name: Send email report
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        secure: true
+        username: ${{ secrets.MAIL_USERNAME }}
+        password: ${{ secrets.MAIL_PASSWORD }}
+        subject: Daily Internship Scraper Report
+        to: navneetbavineni@gmail.com
+        from: Internship Scraper Action
+        body: file://daily_report.md

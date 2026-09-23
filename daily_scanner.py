@@ -79,7 +79,7 @@ def run_scraper():
         
     # Write the report
     date_str = datetime.datetime.now().strftime("%Y-%m-%d")
-    report_file = f"../daily_report_{date_str}.md"
+    report_file = "daily_report.md"
     
     with open(report_file, "w") as f:
         f.write(f"# Daily Internship Scan Report ({date_str})\n\n")
