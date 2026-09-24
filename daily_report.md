@@ -1,41 +1,41 @@
 # Daily Internship Scan Report (2026-09-24)
 
-Scanned 35 companies (Batch 0 to 35).
+Scanned 35 companies (Batch 35 to 70).
 
 | Company | Status | Direct Career URL |
 |---------|--------|-------------------|
-| Sarvam AI | No career page found | [Link](N/A) |
-| Uniphore | No career page found | [Link](N/A) |
-| Yellow.ai | No career page found | [Link](N/A) |
-| Haptik | No career page found | [Link](N/A) |
-| Kore.ai | No career page found | [Link](N/A) |
-| Observe.AI | No career page found | [Link](N/A) |
-| Nanonets | No career page found | [Link](N/A) |
-| Qure.ai | No career page found | [Link](N/A) |
-| SigTuple | No career page found | [Link](N/A) |
-| Mad Street Den | No career page found | [Link](N/A) |
-| Gnani.ai | No career page found | [Link](N/A) |
-| CoRover | No career page found | [Link](N/A) |
-| Leena AI | No career page found | [Link](N/A) |
-| Arya.ai | No career page found | [Link](N/A) |
-| Wadhwani AI | No career page found | [Link](N/A) |
-| Skit.ai | No career page found | [Link](N/A) |
-| E42 | No career page found | [Link](N/A) |
-| Abstrabit Technologies | No career page found | [Link](N/A) |
-| Intentwise | No career page found | [Link](N/A) |
-| Niramai | No career page found | [Link](N/A) |
-| Artpark | No career page found | [Link](N/A) |
-| Entropik | No career page found | [Link](N/A) |
-| Mad Street Den | No career page found | [Link](N/A) |
-| Krutrim | No career page found | [Link](N/A) |
-| Rephrase.ai | No career page found | [Link](N/A) |
-| Yellow.ai | No career page found | [Link](N/A) |
-| Tredence | No career page found | [Link](N/A) |
-| Fractal | No career page found | [Link](N/A) |
-| Quantiphi | No career page found | [Link](N/A) |
-| Tiger Analytics | No career page found | [Link](N/A) |
-| Salesforce | No career page found | [Link](N/A) |
-| Microsoft | No career page found | [Link](N/A) |
-| Google | No career page found | [Link](N/A) |
-| Adobe | No career page found | [Link](N/A) |
-| ServiceNow | No career page found | [Link](N/A) |
+| Oracle | No career page found | [Link](N/A) |
+| SAP | No career page found | [Link](N/A) |
+| IBM | No career page found | [Link](N/A) |
+| Freshworks | No career page found | [Link](N/A) |
+| Zoho | No career page found | [Link](N/A) |
+| Postman | No career page found | [Link](N/A) |
+| BrowserStack | No career page found | [Link](N/A) |
+| Chargebee | No career page found | [Link](N/A) |
+| LeadSquared | No career page found | [Link](N/A) |
+| Darwinbox | No career page found | [Link](N/A) |
+| Whatfix | No career page found | [Link](N/A) |
+| CleverTap | No career page found | [Link](N/A) |
+| MoEngage | No career page found | [Link](N/A) |
+| WebEngage | No career page found | [Link](N/A) |
+| Gupshup | No career page found | [Link](N/A) |
+| Hasura | No career page found | [Link](N/A) |
+| HighLevel | No career page found | [Link](N/A) |
+| Stibo Systems | No career page found | [Link](N/A) |
+| Simplotel | No career page found | [Link](N/A) |
+| Kaleris | No career page found | [Link](N/A) |
+| Zycus | No career page found | [Link](N/A) |
+| Smytten | No career page found | [Link](N/A) |
+| Sprinklr | No career page found | [Link](N/A) |
+| Amagi | No career page found | [Link](N/A) |
+| InMobi | No career page found | [Link](N/A) |
+| Amazon | No career page found | [Link](N/A) |
+| Apple | No career page found | [Link](N/A) |
+| Meta | No career page found | [Link](N/A) |
+| NVIDIA | No career page found | [Link](N/A) |
+| Intel | No career page found | [Link](N/A) |
+| AMD | No career page found | [Link](N/A) |
+| Qualcomm | No career page found | [Link](N/A) |
+| Cisco | No career page found | [Link](N/A) |
+| Dell Technologies | No career page found | [Link](N/A) |
+| HPE | No career page found | [Link](N/A) |
