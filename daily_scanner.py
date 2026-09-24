@@ -1,7 +1,7 @@
 import json
 import re
 import datetime
-from duckduckgo_search import DDGS
+import urllib.parse
 from playwright.sync_api import sync_playwright
 
 STATE_FILE = "scraper_state.json"
@@ -12,7 +12,6 @@ def load_companies():
     with open(TRACKER_FILE, "r") as f:
         for line in f.readlines():
             if line.startswith("- [ ]") or line.startswith("- [x]"):
-                # Clean up the company name
                 company = line.replace("- [ ]", "").replace("- [x]", "").strip()
                 company = re.sub(r' \(.*\)', '', company).strip()
                 companies.append(company)
@@ -36,7 +35,6 @@ def run_scraper():
     print(f"Processing companies {start_idx} to {end_idx}...")
     
     results = []
-    ddgs = DDGS()
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -46,20 +44,28 @@ def run_scraper():
         for company in target_companies:
             print(f"Scraping: {company}")
             try:
-                # Find the career page using DuckDuckGo
+                # Use Playwright to search DuckDuckGo directly (bypasses most API rate limits)
                 search_query = f"{company} careers \"intern\" OR \"internship\" India"
-                search_results = list(ddgs.text(search_query, max_results=1))
+                search_url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote(search_query)}"
                 
-                if not search_results:
+                page.goto(search_url, wait_until="domcontentloaded", timeout=15000)
+                
+                links = page.locator("a.result__url")
+                if links.count() == 0:
                     results.append({"company": company, "status": "No career page found", "url": "N/A"})
                     continue
                     
-                url = search_results[0]['href']
+                url = links.first.get_attribute("href")
+                if not url.startswith("http"):
+                    url = "https://" + url.lstrip("/")
                 
-                # Navigate to the URL
-                page.goto(url, wait_until="networkidle", timeout=15000)
+                # Navigate to the found URL
+                page.goto(url, wait_until="domcontentloaded", timeout=15000)
                 
-                # Extract text
+                # Wait a bit for JS to render
+                page.wait_for_timeout(2000)
+                
+                # Extract text safely
                 body_text = page.locator("body").inner_text().lower()
                 
                 # Simple keyword heuristic
@@ -73,7 +79,7 @@ def run_scraper():
                 
             except Exception as e:
                 print(f"Error scraping {company}: {e}")
-                results.append({"company": company, "status": f"Error: {e}", "url": url if 'url' in locals() else "N/A"})
+                results.append({"company": company, "status": f"Scrape timeout/error", "url": url if 'url' in locals() else "N/A"})
                 
         browser.close()
         
