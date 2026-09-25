@@ -1,41 +1,41 @@
-# Daily Internship Scan Report (2026-09-24)
+# Daily Internship Scan Report (2026-09-25)
 
-Scanned 35 companies (Batch 70 to 105).
+Scanned 35 companies (Batch 105 to 140).
 
 | Company | Status | Direct Career URL |
 |---------|--------|-------------------|
-| HP | No career page found | [Link](N/A) |
-| Broadcom | No career page found | [Link](N/A) |
-| VMware | No career page found | [Link](N/A) |
-| Marvell | No career page found | [Link](N/A) |
-| Micron | No career page found | [Link](N/A) |
-| Texas Instruments | No career page found | [Link](N/A) |
-| NXP Semiconductors | No career page found | [Link](N/A) |
-| MediaTek | No career page found | [Link](N/A) |
-| Arm | No career page found | [Link](N/A) |
-| Samsung | No career page found | [Link](N/A) |
-| Sony | No career page found | [Link](N/A) |
-| Lenovo | No career page found | [Link](N/A) |
-| Motorola Solutions | No career page found | [Link](N/A) |
-| Ericsson | No career page found | [Link](N/A) |
-| Nokia | No career page found | [Link](N/A) |
-| Huawei | No career page found | [Link](N/A) |
-| Ciena | No career page found | [Link](N/A) |
-| Arista Networks | No career page found | [Link](N/A) |
-| Juniper Networks | No career page found | [Link](N/A) |
-| Red Hat | No career page found | [Link](N/A) |
-| Google Research | No career page found | [Link](N/A) |
-| Microsoft Research | No career page found | [Link](N/A) |
-| NVIDIA Research | No career page found | [Link](N/A) |
-| Adobe Research | No career page found | [Link](N/A) |
-| IBM Research | No career page found | [Link](N/A) |
-| Intel Labs | No career page found | [Link](N/A) |
-| Qualcomm AI Research | No career page found | [Link](N/A) |
-| Samsung Research | No career page found | [Link](N/A) |
-| Sony Research | No career page found | [Link](N/A) |
-| Amazon Science | No career page found | [Link](N/A) |
-| Meta AI | No career page found | [Link](N/A) |
-| TCS Research | No career page found | [Link](N/A) |
-| Infosys Research | No career page found | [Link](N/A) |
-| Bosch Research | No career page found | [Link](N/A) |
-| Siemens Research | No career page found | [Link](N/A) |
+| Philips Research | No career page found | [Link](N/A) |
+| Wipro Research | No career page found | [Link](N/A) |
+| Mila India / research collaborations | No career page found | [Link](N/A) |
+| AI4Bharat | No career page found | [Link](N/A) |
+| IIT research labs | No career page found | [Link](N/A) |
+| IISc research labs | No career page found | [Link](N/A) |
+| ISRO research internships | No career page found | [Link](N/A) |
+| DRDO research internships | No career page found | [Link](N/A) |
+| JPMorgan Chase | No career page found | [Link](N/A) |
+| Goldman Sachs | No career page found | [Link](N/A) |
+| Morgan Stanley | No career page found | [Link](N/A) |
+| American Express | No career page found | [Link](N/A) |
+| Visa | No career page found | [Link](N/A) |
+| Mastercard | No career page found | [Link](N/A) |
+| PayPal | No career page found | [Link](N/A) |
+| PhonePe | No career page found | [Link](N/A) |
+| Razorpay | No career page found | [Link](N/A) |
+| CRED | No career page found | [Link](N/A) |
+| Groww | No career page found | [Link](N/A) |
+| Zerodha | No career page found | [Link](N/A) |
+| Upstox | No career page found | [Link](N/A) |
+| Paytm | No career page found | [Link](N/A) |
+| Pine Labs | No career page found | [Link](N/A) |
+| PayU | No career page found | [Link](N/A) |
+| Juspay | No career page found | [Link](N/A) |
+| Navi | No career page found | [Link](N/A) |
+| Fi | No career page found | [Link](N/A) |
+| Jupiter | No career page found | [Link](N/A) |
+| Slice | No career page found | [Link](N/A) |
+| smallcase | No career page found | [Link](N/A) |
+| CoinDCX | No career page found | [Link](N/A) |
+| CoinSwitch | No career page found | [Link](N/A) |
+| Zeta | No career page found | [Link](N/A) |
+| M2P Fintech | No career page found | [Link](N/A) |
+| Cashfree Payments | No career page found | [Link](N/A) |
