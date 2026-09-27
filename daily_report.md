@@ -1,41 +1,41 @@
-# Daily Internship Scan Report (2026-09-26)
+# Daily Internship Scan Report (2026-09-27)
 
-Scanned 35 companies (Batch 140 to 175).
+Scanned 35 companies (Batch 175 to 210).
 
 | Company | Status | Direct Career URL |
 |---------|--------|-------------------|
-| Flipkart | No career page found | [Link](N/A) |
-| Walmart Global Tech | No career page found | [Link](N/A) |
-| Myntra | No career page found | [Link](N/A) |
-| Meesho | No career page found | [Link](N/A) |
 | Swiggy | No career page found | [Link](N/A) |
-| Zomato | No career page found | [Link](N/A) |
-| Blinkit | No career page found | [Link](N/A) |
-| Zepto | No career page found | [Link](N/A) |
-| BigBasket | No career page found | [Link](N/A) |
-| Tata Digital | No career page found | [Link](N/A) |
-| AJIO / Reliance Retail | No career page found | [Link](N/A) |
-| Nykaa | No career page found | [Link](N/A) |
-| Moglix | No career page found | [Link](N/A) |
-| Udaan | No career page found | [Link](N/A) |
-| Delhivery | No career page found | [Link](N/A) |
-| Shiprocket | No career page found | [Link](N/A) |
-| OfBusiness | No career page found | [Link](N/A) |
-| Lenskart | No career page found | [Link](N/A) |
-| Urban Company | No career page found | [Link](N/A) |
-| OYO | No career page found | [Link](N/A) |
-| Uber | No career page found | [Link](N/A) |
-| Ola | No career page found | [Link](N/A) |
-| Rapido | No career page found | [Link](N/A) |
-| Porter | No career page found | [Link](N/A) |
-| MakeMyTrip | No career page found | [Link](N/A) |
-| Goibibo | No career page found | [Link](N/A) |
-| Cleartrip | No career page found | [Link](N/A) |
-| Booking.com | No career page found | [Link](N/A) |
-| Expedia | No career page found | [Link](N/A) |
-| Airbnb | No career page found | [Link](N/A) |
-| Agoda | No career page found | [Link](N/A) |
-| EaseMyTrip | No career page found | [Link](N/A) |
-| Dream11 | No career page found | [Link](N/A) |
-| RummyCircle | No career page found | [Link](N/A) |
-| Games24x7 | No career page found | [Link](N/A) |
+| Simplotel | No career page found | [Link](N/A) |
+| Bosch | No career page found | [Link](N/A) |
+| Siemens | No career page found | [Link](N/A) |
+| Honeywell | No career page found | [Link](N/A) |
+| Schneider Electric | No career page found | [Link](N/A) |
+| GE Vernova | No career page found | [Link](N/A) |
+| GE Healthcare | No career page found | [Link](N/A) |
+| Philips | No career page found | [Link](N/A) |
+| ABB | No career page found | [Link](N/A) |
+| Continental | No career page found | [Link](N/A) |
+| ZF | No career page found | [Link](N/A) |
+| Valeo | No career page found | [Link](N/A) |
+| Mercedes-Benz R&D | No career page found | [Link](N/A) |
+| BMW Tech | No career page found | [Link](N/A) |
+| Volkswagen Group | No career page found | [Link](N/A) |
+| Volvo | No career page found | [Link](N/A) |
+| Rolls-Royce | No career page found | [Link](N/A) |
+| Airbus | No career page found | [Link](N/A) |
+| Boeing | No career page found | [Link](N/A) |
+| Caterpillar | No career page found | [Link](N/A) |
+| John Deere | No career page found | [Link](N/A) |
+| Cummins | No career page found | [Link](N/A) |
+| SLB | No career page found | [Link](N/A) |
+| Baker Hughes | No career page found | [Link](N/A) |
+| Accenture | No career page found | [Link](N/A) |
+| Deloitte | No career page found | [Link](N/A) |
+| PwC | No career page found | [Link](N/A) |
+| EY | No career page found | [Link](N/A) |
+| KPMG | No career page found | [Link](N/A) |
+| TCS | No career page found | [Link](N/A) |
+| Infosys | No career page found | [Link](N/A) |
+| Wipro | No career page found | [Link](N/A) |
+| HCLTech | No career page found | [Link](N/A) |
+| Cognizant | No career page found | [Link](N/A) |
