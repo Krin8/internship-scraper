@@ -1,41 +1,41 @@
-# Daily Internship Scan Report (2026-10-01)
+# Daily Internship Scan Report (2026-10-02)
 
-Scanned 35 companies (Batch 315 to 350).
+Scanned 35 companies (Batch 0 to 35).
 
 | Company | Status | Direct Career URL |
 |---------|--------|-------------------|
-| OfBusiness | No career page found | [Link](N/A) |
-| Whatfix | No career page found | [Link](N/A) |
-| MoEngage | No career page found | [Link](N/A) |
-| CleverTap | No career page found | [Link](N/A) |
-| WebEngage | No career page found | [Link](N/A) |
-| Gupshup | No career page found | [Link](N/A) |
-| Amagi | No career page found | [Link](N/A) |
-| InMobi | No career page found | [Link](N/A) |
-| ShareChat | No career page found | [Link](N/A) |
-| Moj | No career page found | [Link](N/A) |
-| Glance | No career page found | [Link](N/A) |
-| Dream11 | No career page found | [Link](N/A) |
-| Games24x7 | No career page found | [Link](N/A) |
-| BrowserStack | No career page found | [Link](N/A) |
-| Postman | No career page found | [Link](N/A) |
-| ISRO | No career page found | [Link](N/A) |
-| DRDO | No career page found | [Link](N/A) |
-| IIT Bombay | No career page found | [Link](N/A) |
-| IIT Delhi | No career page found | [Link](N/A) |
-| IIT Madras | No career page found | [Link](N/A) |
-| IIT Kanpur | No career page found | [Link](N/A) |
-| IIT Hyderabad | No career page found | [Link](N/A) |
-| IISc Bangalore | No career page found | [Link](N/A) |
-| CSIR | No career page found | [Link](N/A) |
-| C-DAC | No career page found | [Link](N/A) |
-| MeitY | No career page found | [Link](N/A) |
-| Ministry of Electronics & IT | No career page found | [Link](N/A) |
-| NITI Aayog | No career page found | [Link](N/A) |
-| RBI | No career page found | [Link](N/A) |
-| SEBI | No career page found | [Link](N/A) |
-| NPCI | No career page found | [Link](N/A) |
-| CERT-In | No career page found | [Link](N/A) |
-| DoT | No career page found | [Link](N/A) |
-| NCCS | No career page found | [Link](N/A) |
-| STPI | No career page found | [Link](N/A) |
+| Sarvam AI | No career page found | [Link](N/A) |
+| Uniphore | No career page found | [Link](N/A) |
+| Yellow.ai | No career page found | [Link](N/A) |
+| Haptik | No career page found | [Link](N/A) |
+| Kore.ai | No career page found | [Link](N/A) |
+| Observe.AI | No career page found | [Link](N/A) |
+| Nanonets | No career page found | [Link](N/A) |
+| Qure.ai | No career page found | [Link](N/A) |
+| SigTuple | No career page found | [Link](N/A) |
+| Mad Street Den | No career page found | [Link](N/A) |
+| Gnani.ai | No career page found | [Link](N/A) |
+| CoRover | No career page found | [Link](N/A) |
+| Leena AI | No career page found | [Link](N/A) |
+| Arya.ai | No career page found | [Link](N/A) |
+| Wadhwani AI | No career page found | [Link](N/A) |
+| Skit.ai | No career page found | [Link](N/A) |
+| E42 | No career page found | [Link](N/A) |
+| Abstrabit Technologies | No career page found | [Link](N/A) |
+| Intentwise | No career page found | [Link](N/A) |
+| Niramai | No career page found | [Link](N/A) |
+| Artpark | No career page found | [Link](N/A) |
+| Entropik | No career page found | [Link](N/A) |
+| Mad Street Den | No career page found | [Link](N/A) |
+| Krutrim | No career page found | [Link](N/A) |
+| Rephrase.ai | No career page found | [Link](N/A) |
+| Yellow.ai | No career page found | [Link](N/A) |
+| Tredence | No career page found | [Link](N/A) |
+| Fractal | No career page found | [Link](N/A) |
+| Quantiphi | No career page found | [Link](N/A) |
+| Tiger Analytics | No career page found | [Link](N/A) |
+| Salesforce | No career page found | [Link](N/A) |
+| Microsoft | No career page found | [Link](N/A) |
+| Google | No career page found | [Link](N/A) |
+| Adobe | No career page found | [Link](N/A) |
+| ServiceNow | No career page found | [Link](N/A) |
